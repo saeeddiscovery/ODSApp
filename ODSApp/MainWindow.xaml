@@ -1,0 +1,15 @@
+﻿<Window x:Name="Win_Main" x:Class="RepApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RepApp"
+        mc:Ignorable="d"
+        Title="پرسشنامه" Height="136.024" Width="355.123" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize">
+    <Grid Margin="0,0,-1,0">
+        <Viewbox Margin="44.884,21.487,37.263,0" Height="65" VerticalAlignment="Top">
+            <Button x:Name="btn_Start" Content="شروع پرسشنامه جدید" Width="230" Height="55" IsDefault="True" ToolTip="شروع پرسشنامه جدید" Click="button_Click"/>
+        </Viewbox>
+
+    </Grid>
+</Window>
