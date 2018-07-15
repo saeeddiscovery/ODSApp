@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Blend for Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepApp2", "RepApp\RepApp2.csproj", "{8FAF2F08-3E41-42C1-ACAF-DD4FE66F162A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ODSApp", "ODSApp\ODSApp.csproj", "{8FAF2F08-3E41-42C1-ACAF-DD4FE66F162A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
