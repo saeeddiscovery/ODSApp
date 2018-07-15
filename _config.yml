@@ -1,11 +1,6 @@
-<<<<<<< HEAD
 theme: jekyll-theme-slate
-title: RepApp
+title: RepApp2
 description: Download->> Source code->(tar.gz)  |  Latest Release->(.zip)
 github:
         zip_url: https://github.com/saeedmhq/RepApp2/releases/download/0.1/RepApp2_v0.1.zip
 show_downloads: true
-
-=======
-theme: jekyll-theme-slate
->>>>>>> 9becb62cf2f1669d01424524b8765568e6f46b54
