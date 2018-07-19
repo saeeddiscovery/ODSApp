@@ -2,5 +2,5 @@ theme: jekyll-theme-slate
 title: ODSApp
 description: Download->> Source code->(tar.gz)  |  Latest Release->(.zip)
 github:
-        zip_url: https://github.com/saeedmhq/ODSApp/releases/download/0.1/ODSApp_v0.1.zip
+        zip_url: https://github.com/saeedmhq/ODSApp/releases/download/v0.1/ODSApp_v0.1.zip
 show_downloads: true
