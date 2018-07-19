@@ -7,12 +7,12 @@ using System.Windows;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("RepApp")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("ODSApp")]
+[assembly: AssemblyDescription("Overeating Dimensions Scale App")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("RepApp")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
+[assembly: AssemblyProduct("ODSApp")]
+[assembly: AssemblyCopyright("Copyright ©  Saeed Mohaqeqi 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

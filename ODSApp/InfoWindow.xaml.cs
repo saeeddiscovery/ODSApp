@@ -14,7 +14,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace RepApp
+namespace ODSApp
 {
     /// <summary>
     /// Interaction logic for InfoWindow.xaml
@@ -97,6 +97,7 @@ namespace RepApp
             EvalWindow evalWin = new EvalWindow();
             EvalWindow.info = newLine;
             EvalWindow.info_filePath = filePath;
+            EvalWindow.currId = currId;
             evalWin.Show();
             this.Close();
         }
