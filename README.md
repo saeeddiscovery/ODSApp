@@ -1,4 +1,6 @@
 ﻿# ODSApp
+ [!["Latest Release"](https://img.shields.io/badge/Release-v0.1-9cf.svg)](https://github.com/saeedmhq/ODSApp/releases/latest)
+ 
 Overeating Dimensions Scale App
 
 پرسش نامه شاخص ابعاد بیش خوری خوراکی ها
